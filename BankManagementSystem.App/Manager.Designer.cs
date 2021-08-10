@@ -71,7 +71,7 @@ namespace BankManagementSystem.App
             this.pnlSideMenu.Dock = System.Windows.Forms.DockStyle.Left;
             this.pnlSideMenu.Location = new System.Drawing.Point(0, 0);
             this.pnlSideMenu.Name = "pnlSideMenu";
-            this.pnlSideMenu.Size = new System.Drawing.Size(262, 677);
+            this.pnlSideMenu.Size = new System.Drawing.Size(262, 670);
             this.pnlSideMenu.TabIndex = 0;
             // 
             // pnlSubMenuTransaction
@@ -376,7 +376,7 @@ namespace BankManagementSystem.App
             // 
             // pnlLogo
             // 
-            this.pnlLogo.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(126)))), ((int)(((byte)(215)))), ((int)(((byte)(255)))));
+            this.pnlLogo.BackColor = System.Drawing.Color.Gray;
             this.pnlLogo.Controls.Add(this.label1);
             this.pnlLogo.Dock = System.Windows.Forms.DockStyle.Top;
             this.pnlLogo.Location = new System.Drawing.Point(0, 0);
@@ -401,7 +401,7 @@ namespace BankManagementSystem.App
             this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel1.Location = new System.Drawing.Point(262, 0);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(985, 67);
+            this.panel1.Size = new System.Drawing.Size(1033, 67);
             this.panel1.TabIndex = 1;
             // 
             // Manager
@@ -409,7 +409,7 @@ namespace BankManagementSystem.App
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.WhiteSmoke;
-            this.ClientSize = new System.Drawing.Size(1247, 677);
+            this.ClientSize = new System.Drawing.Size(1295, 670);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.pnlSideMenu);
             this.Name = "Manager";
