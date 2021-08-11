@@ -56,6 +56,7 @@ namespace BankManagementSystem.App
         private void btnSearchEmp_Click(object sender, EventArgs e)
         {
             //codes..
+            //
 
             hideSubMenu();
         }
@@ -63,14 +64,7 @@ namespace BankManagementSystem.App
         private void btnRemoveEmp_Click(object sender, EventArgs e)
         {
             //codes..
-
-            hideSubMenu();
-
-        }
-
-        private void btnUpdateEmp_Click(object sender, EventArgs e)
-        {
-            //codes..
+            //
 
             hideSubMenu();
         }
@@ -78,6 +72,7 @@ namespace BankManagementSystem.App
         private void btnShowAllEmp_Click(object sender, EventArgs e)
         {
             //codes..
+            //
 
             hideSubMenu();
         }
@@ -90,13 +85,7 @@ namespace BankManagementSystem.App
         private void btnSearchCus_Click(object sender, EventArgs e)
         {
             //codes..
-
-            hideSubMenu();
-        }
-
-        private void btnRemoveCus_Click(object sender, EventArgs e)
-        {
-            //codes..
+            //
 
             hideSubMenu();
         }
@@ -104,6 +93,15 @@ namespace BankManagementSystem.App
         private void btnUpdateCus_Click(object sender, EventArgs e)
         {
             //codes..
+            //
+
+            hideSubMenu();
+        }
+
+        private void btnRemoveCus_Click(object sender, EventArgs e)
+        {
+            //codes..
+            //
 
             hideSubMenu();
         }
@@ -111,6 +109,7 @@ namespace BankManagementSystem.App
         private void btnShowAllCus_Click(object sender, EventArgs e)
         {
             //codes..
+            //
 
             hideSubMenu();
         }
@@ -120,23 +119,26 @@ namespace BankManagementSystem.App
             showSubMenu(pnlSubMenuTransaction);
         }
 
-        private void btnTransactionToday_Click(object sender, EventArgs e)
+        private void btnSrarchTransaction_Click(object sender, EventArgs e)
         {
             //codes..
+            //
 
             hideSubMenu();
         }
 
-        private void btnTransactionHistory_Click(object sender, EventArgs e)
+        private void btnShowAllTransaction_Click(object sender, EventArgs e)
         {
             //codes..
+            //
 
             hideSubMenu();
         }
 
-        private void btnTransactionShowAll_Click(object sender, EventArgs e)
+        private void btnUpdateEmp_Click(object sender, EventArgs e)
         {
             //codes..
+            //
 
             hideSubMenu();
         }
