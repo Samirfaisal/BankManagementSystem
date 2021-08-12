@@ -50,7 +50,9 @@ namespace BankManagementSystem.App
 
         private void btnEmployee_Click(object sender, EventArgs e)
         {
+
             showSubMenu(pnlSubMenuEmp);
+            UserControlLoader.openUserControl(new userControlEmployee(), pnlManager);
         }
 
         private void btnSearchEmp_Click(object sender, EventArgs e)
@@ -80,6 +82,9 @@ namespace BankManagementSystem.App
         private void btnCustomer_Click(object sender, EventArgs e)
         {
             showSubMenu(pnlSubMenuCus);
+            UserControlLoader.openUserControl(new UserControlCustomer(), pnlManager);
+
+
         }
 
         private void btnSearchCus_Click(object sender, EventArgs e)
@@ -117,6 +122,7 @@ namespace BankManagementSystem.App
         private void btnTransaction_Click(object sender, EventArgs e)
         {
             showSubMenu(pnlSubMenuTransaction);
+            UserControlLoader.openUserControl(new UserControlTransaction(), pnlManager);
         }
 
         private void btnSrarchTransaction_Click(object sender, EventArgs e)
@@ -142,5 +148,8 @@ namespace BankManagementSystem.App
 
             hideSubMenu();
         }
+
     }
 }
+
+
