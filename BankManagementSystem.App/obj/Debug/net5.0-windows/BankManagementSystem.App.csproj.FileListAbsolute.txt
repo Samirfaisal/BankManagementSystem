@@ -19,3 +19,7 @@ E:\LECTURES\Current\OOP2(C#)\Project\BankManagementSystem\BankManagementSystem.A
 E:\LECTURES\Current\OOP2(C#)\Project\BankManagementSystem\BankManagementSystem.App\obj\Debug\net5.0-windows\BankManagementSystem.App.Properties.Resources.resources
 E:\LECTURES\Current\OOP2(C#)\Project\BankManagementSystem\BankManagementSystem.App\obj\Debug\net5.0-windows\BankManagementSystem.App.Manager.resources
 E:\LECTURES\Current\OOP2(C#)\Project\BankManagementSystem\BankManagementSystem.App\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+E:\LECTURES\Current\OOP2(C#)\Project\BankManagementSystem\BankManagementSystem.App\obj\Debug\net5.0-windows\BankManagementSystem.App.Employee.resources
+E:\LECTURES\Current\OOP2(C#)\Project\BankManagementSystem\BankManagementSystem.App\obj\Debug\net5.0-windows\BankManagementSystem.App.UserControlCustomer.resources
+E:\LECTURES\Current\OOP2(C#)\Project\BankManagementSystem\BankManagementSystem.App\obj\Debug\net5.0-windows\BankManagementSystem.App.userControlEmployee.resources
+E:\LECTURES\Current\OOP2(C#)\Project\BankManagementSystem\BankManagementSystem.App\obj\Debug\net5.0-windows\BankManagementSystem.App.UserControlTransaction.resources
