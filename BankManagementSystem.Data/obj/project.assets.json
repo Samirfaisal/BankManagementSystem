@@ -8,23 +8,23 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\mdsun\\.nuget\\packages\\": {},
+    "C:\\Users\\Samir\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\LECTURES\\Current\\OOP2(C#)\\Project\\BankManagementSystem\\BankManagementSystem.Data\\BankManagementSystem.Data.csproj",
+      "projectUniqueName": "C:\\Users\\Samir\\Desktop\\BankManagementSystem\\BankManagementSystem.Data\\BankManagementSystem.Data.csproj",
       "projectName": "BankManagementSystem.Data",
-      "projectPath": "E:\\LECTURES\\Current\\OOP2(C#)\\Project\\BankManagementSystem\\BankManagementSystem.Data\\BankManagementSystem.Data.csproj",
-      "packagesPath": "C:\\Users\\mdsun\\.nuget\\packages\\",
-      "outputPath": "E:\\LECTURES\\Current\\OOP2(C#)\\Project\\BankManagementSystem\\BankManagementSystem.Data\\obj\\",
+      "projectPath": "C:\\Users\\Samir\\Desktop\\BankManagementSystem\\BankManagementSystem.Data\\BankManagementSystem.Data.csproj",
+      "packagesPath": "C:\\Users\\Samir\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Samir\\Desktop\\BankManagementSystem\\BankManagementSystem.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\mdsun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Samir\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.206\\RuntimeIdentifierGraph.json"
       }
     }
   }

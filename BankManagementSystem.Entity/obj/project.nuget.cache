@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "57FSH/4biGVLWDpCvJ9VjMNVhWJAUyabTiFm/5vQgWCs9Gi9hzuT4IquVKltoZC+MDktt7UZ6z9b1XDS6BEivw==",
+  "dgSpecHash": "kLKt+J2iDPLPJEwcIrfuDIt1yIMjZov+HxVhH6MNLPfPnX25sYFj1f0H85F8sR/B8MC0MprQ8l1/eI053+hbpQ==",
   "success": true,
-  "projectFilePath": "E:\\LECTURES\\Current\\OOP2(C#)\\Project\\BankManagementSystem\\BankManagementSystem.Entity\\BankManagementSystem.Entity.csproj",
+  "projectFilePath": "C:\\Users\\Samir\\Desktop\\BankManagementSystem\\BankManagementSystem.Entity\\BankManagementSystem.Entity.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

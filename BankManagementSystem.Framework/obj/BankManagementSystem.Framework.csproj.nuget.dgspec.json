@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\LECTURES\\Current\\OOP2(C#)\\Project\\BankManagementSystem\\BankManagementSystem.Framework\\BankManagementSystem.Framework.csproj": {}
+    "C:\\Users\\Samir\\Desktop\\BankManagementSystem\\BankManagementSystem.Framework\\BankManagementSystem.Framework.csproj": {}
   },
   "projects": {
-    "E:\\LECTURES\\Current\\OOP2(C#)\\Project\\BankManagementSystem\\BankManagementSystem.Framework\\BankManagementSystem.Framework.csproj": {
+    "C:\\Users\\Samir\\Desktop\\BankManagementSystem\\BankManagementSystem.Framework\\BankManagementSystem.Framework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\LECTURES\\Current\\OOP2(C#)\\Project\\BankManagementSystem\\BankManagementSystem.Framework\\BankManagementSystem.Framework.csproj",
+        "projectUniqueName": "C:\\Users\\Samir\\Desktop\\BankManagementSystem\\BankManagementSystem.Framework\\BankManagementSystem.Framework.csproj",
         "projectName": "BankManagementSystem.Framework",
-        "projectPath": "E:\\LECTURES\\Current\\OOP2(C#)\\Project\\BankManagementSystem\\BankManagementSystem.Framework\\BankManagementSystem.Framework.csproj",
-        "packagesPath": "C:\\Users\\mdsun\\.nuget\\packages\\",
-        "outputPath": "E:\\LECTURES\\Current\\OOP2(C#)\\Project\\BankManagementSystem\\BankManagementSystem.Framework\\obj\\",
+        "projectPath": "C:\\Users\\Samir\\Desktop\\BankManagementSystem\\BankManagementSystem.Framework\\BankManagementSystem.Framework.csproj",
+        "packagesPath": "C:\\Users\\Samir\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Samir\\Desktop\\BankManagementSystem\\BankManagementSystem.Framework\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\mdsun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Samir\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.206\\RuntimeIdentifierGraph.json"
         }
       }
     }
