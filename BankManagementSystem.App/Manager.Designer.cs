@@ -74,7 +74,7 @@ namespace BankManagementSystem.App
             this.pnlSideMenu.Dock = System.Windows.Forms.DockStyle.Left;
             this.pnlSideMenu.Location = new System.Drawing.Point(0, 0);
             this.pnlSideMenu.Name = "pnlSideMenu";
-            this.pnlSideMenu.Size = new System.Drawing.Size(262, 660);
+            this.pnlSideMenu.Size = new System.Drawing.Size(262, 662);
             this.pnlSideMenu.TabIndex = 0;
             // 
             // pnlSubMenuTransaction
@@ -466,16 +466,16 @@ namespace BankManagementSystem.App
             this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel1.Location = new System.Drawing.Point(262, 0);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(1071, 134);
+            this.panel1.Size = new System.Drawing.Size(1201, 84);
             this.panel1.TabIndex = 1;
             // 
             // pnlManager
             // 
             this.pnlManager.BackColor = System.Drawing.Color.Gray;
             this.pnlManager.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.pnlManager.Location = new System.Drawing.Point(262, 134);
+            this.pnlManager.Location = new System.Drawing.Point(262, 84);
             this.pnlManager.Name = "pnlManager";
-            this.pnlManager.Size = new System.Drawing.Size(1071, 526);
+            this.pnlManager.Size = new System.Drawing.Size(1201, 578);
             this.pnlManager.TabIndex = 2;
             // 
             // Manager
@@ -483,7 +483,7 @@ namespace BankManagementSystem.App
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.WhiteSmoke;
-            this.ClientSize = new System.Drawing.Size(1333, 660);
+            this.ClientSize = new System.Drawing.Size(1463, 662);
             this.Controls.Add(this.pnlManager);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.pnlSideMenu);

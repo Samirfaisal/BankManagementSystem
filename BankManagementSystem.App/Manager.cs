@@ -16,6 +16,7 @@ namespace BankManagementSystem.App
         {
             InitializeComponent();
             customizeDesign();
+            //UserControlLoader.openUserControl(new userControlEmployee(), pnlManager);
         }
 
         private void customizeDesign()
@@ -148,8 +149,5 @@ namespace BankManagementSystem.App
 
             hideSubMenu();
         }
-
     }
 }
-
-
